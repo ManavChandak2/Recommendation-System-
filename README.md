@@ -12,7 +12,7 @@ This repository contains the implementation of a recommendation system. The proj
 -Results
 -Contributing
 
-#Installation
+# Installation
 To get started, clone the repository and install the necessary dependencies:
 
 git clone https://github.com/ManavChandak2/Recommendation-System-.git
